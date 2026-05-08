@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow Kanban",
+  "description": "Sistema de Kanban profissional com persistência em tempo real, suporte para status de tarefas e design otimizado para produtividade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
